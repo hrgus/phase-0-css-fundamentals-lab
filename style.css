@@ -3,3 +3,82 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1.header {
+  font-size: 45px;
+  width: auto;
+  text-align: center;
+
+}
+
+nav.Links {
+  width: auto;
+  text-align: center;
+
+}
+
+a.padding {
+  padding: 10px;
+  background-color: rgba(244, 85, 189, 0.3);
+
+}
+
+img#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+figcaption#caption {
+  display: block;
+  text-align: center;
+  padding-top: 4px;
+  font-size: 15px;
+  font-family: sans-serif;
+
+}
+
+figure ~ p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  width: 800px;
+  text-align: center;
+
+}
+
+section#details {
+  display: inline-block;
+  width: 100%;
+  background-color: rgba(55 ,79 ,45 , 0.9);
+
+}
+
+div#contact {
+  float: left;
+  width: 25%;
+  text-align: center;
+
+}
+
+div#Correspondence {
+  float: left;
+  width: 25%;
+  text-align: center;
+
+}
+
+div#links {
+  float: left;
+  width: 25%;
+  text-align: center;
+
+}
+
+div#follow {
+  float: left;
+  width: 25%;
+  text-align: center;
+}
